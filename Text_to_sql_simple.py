@@ -54,11 +54,11 @@ if __name__=="__main__":
     print("Ejemplos:")
     print("- agrega persona Juan 25")
     print("- muestra todas las personas")
-    print("- borra persona Carlos")
+    print("- borra persona Yahith Gutierrez")
     print("- salir\n")
     while True:
         comando =input("Escribe tu instrucción: ")
         if comando.lower()=="salir":
             break
-            resultado =interpretar_texto(comando)
-            print(resultado)
+        resultado =interpretar_texto(comando)
+        print(resultado)
