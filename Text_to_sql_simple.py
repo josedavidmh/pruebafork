@@ -52,7 +52,7 @@ def interpretar_texto(texto):
 if __name__=="__main__":
     print("=== Sistema Text-to-SQL Básico ===")
     print("Ejemplos:")
-    print("- agrega persona Juan 25")
+    print("- agrega persona Jose 30")
     print("- muestra todas las personas")
     print("- borra persona Yahith Gutierrez")
     print("- salir\n")
