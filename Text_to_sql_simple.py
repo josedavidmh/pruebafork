@@ -53,6 +53,7 @@ if __name__=="__main__":
     print("=== Sistema Text-to-SQL Básico ===")
     print("Ejemplos:")
     print("- agrega persona Jose 30")
+    print("- agrega persona Maira")
     print("- muestra todas las personas")
     print("- borra persona Yahith Gutierrez")
     print("- salir\n")
