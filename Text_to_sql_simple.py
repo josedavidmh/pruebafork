@@ -56,6 +56,7 @@ if __name__=="__main__":
     print("- agrega persona Maira")
     print("- muestra todas las personas")
     print("- borra persona Yahith Gutierrez")
+    print("- borra persona Jose")
     print("- salir\n")
     while True:
         comando =input("Escribe tu instrucción: ")
